@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">aboutMe</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="name">Erick Yael Perez Guzman</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hola mi nombre es Erick
+    \n\nMe gustan las hamburguesas
+    \n\nSobre todo me gustan muchisimo más los tacos, la verdad es que los de Pastor estan muy buenos
+    \nAlgo que deben saber es que el Pastor es cerdo.
+    \n\nMe gustan los tacos, las quesadillas, las gringas (las de comida, aunque también las muchachas)
+    \nTambien me gustan los pioneros
+    \nY tambien me gustan mucho los alambres
+    \n\nUna vez me comi un alambre yo solo acabe muy lleno
+    \n\nEstare feliz de enseñarte como comer tacos
+    \nAunque tal vez no deberias pagar tu.\n\n</string>
+    <string name="micro">Microfonito</string>
+
+</resources>
